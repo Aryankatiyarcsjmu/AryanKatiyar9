@@ -14,6 +14,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-katiyar-221913297)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aryankatiyarKN33)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aryankatiyarakchjmu/)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![StrataScratch](https://img.shields.io/badge/StrataScratch-00A58E?style=for-the-badge&logoColor=white)
+![HackerRank Rising Star](https://img.shields.io/badge/HackerRank-Rising%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ## ✅👀🤝 Certificates
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://drive.google.com/file/d/1YUwcMKKniPmpjBr_n4GwtD1moY3HB6zo/view?usp=drivesdk)
